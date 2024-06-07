@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>images/icons/close.png</file>
+    <file>images/icons/delete.png</file>
+    <file>images/icons/download.png</file>
+    <file>images/icons/home.png</file>
+    <file>images/icons/layer.png</file>
+    <file>images/icons/person.png</file>
+    <file>images/icons/profile.png</file>
+    <file>images/icons/sideMenu.png</file>
+    <file>images/icons/timer.png</file>
+    <file>images/icons/addFileIcon.png</file>
+    <file>images/icons/minimizeIcon.png</file>
+  </qresource>
+  <qresource prefix="pages">
+    <file>images/developerPage.png</file>
+    <file>images/FrontPageTemp.png</file>
+    <file>images/bg2.png</file>
+    <file>images/bg.png</file>
+    <file>images/FrontPage.png</file>
+    <file>images/tempLogo.png</file>
+  </qresource>
+</RCC>
